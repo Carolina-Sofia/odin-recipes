@@ -1,1 +1,1 @@
-Recipes collection using my knowledge of HTML.
+My favorite recipes collection using my knowledge of HTML and CSS.
